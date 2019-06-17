@@ -82,6 +82,9 @@ public class PracticeWithArrays {
             } else
                 ;
 
+        System.out.println("\nEnd of this part of program\n\n-----------------------------------------------------");
+
+
         //Asking user to continue with program
             System.out.println("Continue? y/n");
             String answer4 = key.next();
@@ -102,6 +105,8 @@ public class PracticeWithArrays {
                 System.out.println(Arrays.toString(newArray));
 
             }
+        System.out.println("\nEnd of this part of program\n\n-----------------------------------------------------");
+
 
         //Final part of program
             System.out.println("\n\nFinal part of program\n\n" +
